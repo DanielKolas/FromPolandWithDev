@@ -8,7 +8,6 @@ This project was created as a recruitment task for the company From Poland With 
 Project is created with:
 * HTML
 * CSS
-* SCSS
 * JS
 
 ## Features
